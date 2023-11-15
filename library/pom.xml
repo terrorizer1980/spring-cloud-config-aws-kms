@@ -18,7 +18,7 @@
         <java.version>1.8</java.version>
         <maven.site.skip>true</maven.site.skip>
 
-        <aws-java-sdk.version>[1.11.774,)</aws-java-sdk.version>
+        <aws-java-sdk.version>1.12.589</aws-java-sdk.version>
     </properties>
 
     <dependencyManagement>
